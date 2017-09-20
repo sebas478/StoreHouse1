@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "937825823640",
+    "firebase_url": "https://storehouse-a0400.firebaseio.com",
+    "project_id": "storehouse-a0400",
+    "storage_bucket": "storehouse-a0400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937825823640:android:1ed75389a6aa188b",
+        "android_client_info": {
+          "package_name": "cl.ramces.storehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937825823640-gob6hlj9sf82aaf8old5p05rsa4sten7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.ramces.storehouse",
+            "certificate_hash": "33cf74bf97372ea6d84e6e677d2990192b563134"
+          }
+        },
+        {
+          "client_id": "937825823640-9fvnnuahkb3q4ub160lqsnlt42g5q03t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQWhATY2KJmg2PjZqS8YaBoUp4UbyYtSA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937825823640-9fvnnuahkb3q4ub160lqsnlt42g5q03t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
